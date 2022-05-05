@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 Notre belle histoire commence avec un ane et un shrek, dans une contrée lointaine. Tous deux sont à la recherche d'un trésor. Mais un ogre verdâtre, cynique et malicieux, a élu domicile dans un marécage qu'il croit être un havre de paix. Un matin, alors qu'il sort faire sa toilette, il découvre de petites créatures agaçantes qui errent dans son marais.
-=======
-Notre belle histoire commence avec un ane et un shrek, dans une contrée lointaine. Tous les deux cherchent un trésor.:wq
->>>>>>> AuroreBranch
